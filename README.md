@@ -23,7 +23,7 @@
 `Python`  `Java` `CSS` `JavaScript` `PostgreSQL` `Linux System Commands`
 
 ### Current Focus
-I am currently architecting **We Applications** and building **Projects**. 
+I am currently architecting **Web Applications** and building **Projects**. 
 
 <br>
 <p align="right">
