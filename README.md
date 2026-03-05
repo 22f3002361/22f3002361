@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:dksair02@icloud.com">Email</a> |
+  <a href="mailto:22f3002361@ds.study.iitm.ac.in">Email</a> |
   <a href="https://x.com/dflightofbyte_">Twitter</a> |
   <a href="https://www.linkedin.com/in/deependra-k-2469a0196/">LinkedIn</a> |
   <a href="https://portfolio-iota-ten-mh34qn25yo.vercel.app">Portfolio</a>
